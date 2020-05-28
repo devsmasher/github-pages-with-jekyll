@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Thanks for stopping by...
+
+I plan to discuss systems development and all that it entails...so strap in and hang on tight!!
